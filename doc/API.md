@@ -1423,7 +1423,7 @@ await peerStore.unTagPeer(peerId, 'my-tag')
 
 ### peerStore.getTags
 
-Remove the tag from the specified peer
+Gets the tag from the specified peer
 
 `peerStore.getTags(peerId)`
 
